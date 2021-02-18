@@ -1,0 +1,265 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<icondef>
+	<meta>
+		<name>Default</name>
+		<version>1.0</version>
+		<description>Default icon set</description>
+		<creation>18-09-2008</creation>
+	</meta>
+
+	<!-- Normal icons -->
+
+  <icon>
+		<text>:-)</text>
+		<text>:)</text>
+    <text>:-]</text>
+    <text>:]</text>  
+		<object mime='image/png'>smiley</object>
+	</icon>
+
+  <icon>
+    <text>:-D</text>
+    <text>:-d</text>
+    <text>:D</text>
+    <text>:d</text>
+    <text>:-></text>
+    <text>:></text>
+    <text>*JOKINGLY*</text>
+    <object mime='image/png'>biggrin</object>
+  </icon>
+
+  <icon>
+    <text>*LAUGH*</text>
+    <text>*LAUGHING*</text>
+    <text>:'D</text>
+    <object mime='image/png'>laugh</object>
+	</icon>
+	
+	<icon>
+		<text>;-)</text>
+		<text>;)</text>
+    <text>;-]</text>
+    <text>;]</text>
+    <object mime='image/png'>wink</object>
+	</icon>
+  
+	<icon>
+		<text>:-P</text>
+		<text>:-p</text>
+		<text>:P</text>
+		<text>:p</text>
+		<object mime='image/png'>tongue</object>
+	</icon>
+
+	<icon>
+		<text>:-(</text>
+		<text>:(</text>
+    <text>:-[</text>
+    <text>*TIRED*</text>
+		<object mime='image/png'>unhappy</object>
+	</icon>
+
+	<icon>
+		<text>:'-(</text>
+		<text>:'(</text>
+		<text>;-(</text>
+		<text>;(</text>
+    <text>:'-[</text>
+    <text>:'[</text>
+    <text>;-[</text>
+    <text>;[</text>
+		<object mime='image/png'>cry</object>
+	</icon>
+
+  <icon>
+    <text>*BAWLING*</text>
+    <object mime='image/png'>bawl</object>
+	</icon> 
+
+  <icon>
+    <text>:-!</text>
+    <text>:-S</text>
+    <text>:-s</text>
+    <text>:S</text>
+    <text>:s</text>
+    <object mime='image/png'>frowning</object>
+  </icon>
+	
+  <icon>
+    <text>:-@</text>
+    <object mime='image/png'>angry</object>
+  </icon>
+
+	<icon>
+    <text>8-)</text>
+		<text>B-)</text>
+    <text>B-]</text>
+		<object mime='image/png'>coolglasses</object>
+	</icon>
+
+  <icon>
+    <text>=-O</text>
+    <text>:-O</text>
+    <text>:-o</text>
+    <text>:O</text>
+    <text>:o</text>
+    <object mime='image/png'>oh</object>
+  </icon>
+
+
+  <icon>
+    <text>:-$</text>
+    <text>:$</text>
+    <text>O:-)</text>
+    <text>o:-)</text>
+    <text>0:-)</text>
+    <object mime='image/png'>blush</object>
+  </icon>
+
+  <icon>
+    <text>*KISSING*</text>
+    <text>*KISSED*</text>
+    <text>:-{}</text>
+    <text>:-*</text>
+    <object mime='image/png'>kiss</object>
+  </icon>
+
+  <icon>
+    <text>*IN_LOVE*</text>
+    <object mime='image/png'>love</object>
+	</icon>
+  
+  <icon>
+    <text>:-\</text>
+    <text>:-/</text>
+    <object mime='image/png'>annoyed</object>
+  </icon>
+
+  <!-- new icons -->
+  <icon>
+    <text>*SICK*</text>
+    <object mime='image/png'>sick</object>
+	</icon>
+
+  <icon>
+    <text>*BLANK*</text>
+    <text>:|</text>
+    <object mime='image/png'>blank</object>
+	</icon>
+
+  <icon>
+    <text>*BORED*</text>
+    <object mime='image/png'>bored</object>
+	</icon>
+
+	<icon>
+		<text>]:-></text>
+		<text>(666)</text>
+		<object mime='image/png'>devil</object>
+	</icon>
+	
+	<icon>
+		<text>*ALIEN*</text>
+		<object mime='image/png'>alien</object>
+	</icon>
+
+	<icon>
+    <text>*HEART*</text>
+    <object mime='image/png'>heart</object>
+  </icon>
+
+	<icon>
+		<text>*STAR*</text>
+		<object mime='image/png'>star</object>
+	</icon>
+
+
+  <icon>
+    <text>*IDEA*</text>
+    <object mime='image/png'>idea</object>
+	</icon>                         
+  
+  <icon>
+    <text>@}->--</text>
+    <object mime='image/png'>flower</object>
+  </icon>     
+             
+  <icon>
+    <text>:-X</text>
+    <text>:-x</text>
+    <object mime='image/png'>no</object>
+  </icon>
+	<icon>
+		<text>*THUMBS_UP*</text>
+		<text>*THUMBS UP*</text>
+    <object mime='image/png'>yes</object>
+	</icon>
+  
+  <icon>
+    <text>*CLAP*</text>
+    <object mime='image/png'>applause</object>
+	</icon> 
+  
+  <icon>
+    <text>*TOP*</text>
+    <object mime='image/png'>top</object>
+	</icon>
+         
+  <icon>
+    <text>*FISTBUMP*</text>
+    <object mime='image/png'>bump</object>
+	</icon>
+  
+  <icon>
+    <text>*HI*</text>
+    <object mime='image/png'>hi</object>
+	</icon>                
+  
+  <icon>
+    <text>*SPOCK*</text>
+    <object mime='image/png'>spock</object>
+	</icon>
+         
+  <icon>
+    <text>*BOOM*</text>
+    <object mime='image/png'>bomb</object>
+	</icon>
+	
+  <icon>
+    <text>*CHEESE*</text>
+    <object mime='image/png'>cheese</object>
+	</icon>
+ 
+  <icon>
+    <text>*DRINK*</text>
+    <object mime='image/png'>beer</object>
+  </icon>
+
+  <icon>
+    <text>*LUCKY*</text>
+    <object mime='image/png'>luck</object>
+	</icon>
+  
+  <icon>
+    <text>*STOP*</text>
+    <object mime='image/png'>stop</object>
+	</icon>  
+  
+	<icon>
+		<text>*COFFEE*</text>
+		<object mime='image/png'>coffee</object>
+	</icon>
+
+
+	<icon>
+		<text>*MAIL*</text>
+		<object mime='image/png'>mail</object>
+	</icon>
+
+	
+  <icon>
+    <text>[:-}</text>
+    <object mime='image/png'>music</object>
+  </icon>
+
+</icondef>
